@@ -20,14 +20,6 @@ git checkout -b add-my-info
 
 4. **Add Your Socials:** Add your name and social media links to the `socials.md` file. Feel free to follow the existing format. You can create a new file named `socials.md` if it doesn't already exist.
 
-Example in socials.md:
-
-```markdown
-### Your Name
-
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-
 Please add your name at the the middle. Not at the top or at the very end
 
 git add socials.md
@@ -48,5 +40,4 @@ Twitter: @CodersCultivate
 Instagram: @coderscultivate
 Thank you for considering contributing to CodersCultivate. Your contributions help make this project a valuable resource for aspiring programmers!
 
-**created by UTHMAN BASHIR DANTATA -- https://www.linkedin.com/in/uthman-bashir-dantata/** 
-```
+**created by UTHMAN BASHIR DANTATA -- https://www.linkedin.com/in/uthman-bashir-dantata/**
