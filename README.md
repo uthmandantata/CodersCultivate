@@ -48,5 +48,5 @@ Twitter: @CodersCultivate
 Instagram: @coderscultivate
 Thank you for considering contributing to CodersCultivate. Your contributions help make this project a valuable resource for aspiring programmers!
 
-### created by UTHMAN BASHIR DANTATA -- https://www.linkedin.com/in/uthman-bashir-dantata/
+**created by UTHMAN BASHIR DANTATA -- https://www.linkedin.com/in/uthman-bashir-dantata/** 
 ```
